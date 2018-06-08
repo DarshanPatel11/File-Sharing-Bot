@@ -1,2 +1,4 @@
 # File-Sharing-Bot
-File Manager telegram Bot developed in Python
+File Sharing telegram Bot developed in Python
+It is like a centerlized file repository where authorized users can share files and files are available to all the users.
+Functionalities and commands can be seen using /help command.
